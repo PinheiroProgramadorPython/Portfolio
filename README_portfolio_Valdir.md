@@ -6,7 +6,7 @@ Estudo programação com foco em Python, automações e interfaces gráficas. Es
 ## 🧰 Tecnologias que utilizo
 
 - Python (Tkinter, Flask, Kivy, Selenium, requests)
-- HTML, CSS (em andamento – Curso em Vídeo)
+- HTML, CSS
 - Firebase
 - Git e GitHub
 
@@ -25,12 +25,6 @@ Mini site criado com Flask e templates HTML. Inclui páginas dinâmicas, formul�
 ### 📱 [App de Vendas – Python + Kivy](https://github.com/PinheiroProgramadorPython/App-Vendas-Hash)
 Aplicativo estilo mobile com Kivy para controle simples de vendas. Interface organizada, uso de telas e navegação por botões.
 > Tecnologias: Python, Kivy
-
----
-
-## 📸 Capturas de Tela
-
-(Adicione imagens dos seus projetos aqui, se quiser)
 
 ---
 
