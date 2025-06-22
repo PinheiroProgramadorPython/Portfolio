@@ -48,6 +48,10 @@ main {
     color: var(--corfont);
 }
 
+a {
+    color: var(--corfont);
+}
+
 p {
     text-align: center;
 }
