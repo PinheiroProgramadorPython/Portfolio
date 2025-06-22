@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root {
+    --corfundo: #5F3575;
+    --corback: #7A08B7;
+    --corfont: #F9FEEF;
+    --font1: "Bebas Neue", cursive;
+    --font2: Arial, Helvetica, Verdana, sans-serif;
+    --min_larg: 300px;
+    --max_larg: 1200px;
+}
+
+body {
+    display: flexbox;
+    min-width: var(--min_larg);
+    max-width: var(--max_larg);
+    margin: auto;
+    padding: auto;
+    background-color: var(--corfundo);
+}
+
+header {
+    display: flexbox;
+    min-width: var(--min_larg);
+    max-width: var(--max_larg);
+    margin: auto;
+    padding: auto;
+    height: 20%;
+    background-color: var(--corback);
+    color: var(--corfont);
+}
+
+.title {
+    color: var(--corfont);
+    text-align: center;
+}
+
+main {
+    display: flexbox;
+    min-width: var(--min_larg);
+    max-width: var(--max_larg);
+    margin: auto;
+    padding: auto;
+    height: 70%;
+    background-color: var(--corback);
+    color: var(--corfont);
+}
+
+p {
+    text-align: center;
+}
+
+.perfil {
+    width: 200px;
+}
+
+footer {
+    display: flexbox;
+    min-width: var(--min_larg);
+    max-width: var(--max_larg);
+    margin: auto;
+    padding: auto;
+    height: 10%;
+    background-color: var(--corback);
+    color: var(--corfont);
+}
