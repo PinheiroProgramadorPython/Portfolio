@@ -1,7 +1,3 @@
-# Portfolio
-Portfólio dos Projetos de Pinheiro Programador Python
-
-
 # 👨‍💻 Pinheiro Programador Python – Portfólio
 
 Estudo programação com foco em Python, automações e interfaces gráficas. Este repositório reúne meus projetos pessoais e práticos, feitos ao longo da minha jornada de aprendizado. Estou em transição de carreira e busco minha primeira vaga CLT como desenvolvedor júnior.
