@@ -32,6 +32,8 @@ Aplicativo estilo mobile com Kivy para controle simples de vendas. Interface org
 - GitHub: [@PinheiroProgramadorPython](https://github.com/PinheiroProgramadorPython)
 - LinkedIn: [linkedin.com/in/PinheiroProgramadorPython](https://linkedin.com/in/PinheiroProgramadorPython)
 - Email: pinheiroprogramadorpython@gmail.com
+- YouTube: [youtube.com/PinheiroProgramadorPython](https://www.youtube.com/@PinheiroProgamadorPython)
+
 
 
 <a href="Site-Portfolio/index.html" _target="blank">Clique aqui e Veja a Pagina do Portfólio</a>
